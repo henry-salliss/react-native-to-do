@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "redux-with-native",
+    "slug": "redux-with-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "redux-with-native"
+}
